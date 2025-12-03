@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AffirmationApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/medium_blue</item>
+        <item name="colorPrimaryDark">@color/dark_blue_text</item>
+        <item name="colorAccent">@color/medium_blue</item>
+    </style>
+
+    <style name="Theme.AffirmationApp" parent="Base.Theme.AffirmationApp" />
+</resources>
